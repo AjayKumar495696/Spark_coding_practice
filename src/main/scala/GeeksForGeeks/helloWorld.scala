@@ -11,8 +11,8 @@ object helloWorld {
     Line
     Comment*/
 
-    var a = 10
-    var b = 5
+    var a = 20
+    var b = 30
     var sum = a + b
     println("The sum of a and b is : "+sum);
     //here keywords are : object,def,var
