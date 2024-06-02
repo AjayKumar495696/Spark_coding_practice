@@ -13,8 +13,9 @@ object helloWorld {
 
     var a = 20
     var b = 30
-    var sum = a + b
-    println("The sum of a and b is : "+sum);
+    var c = 40
+    var sum = a + b + c
+    println("The sum of a and b and c is : "+sum);
     //here keywords are : object,def,var
   }
 }
