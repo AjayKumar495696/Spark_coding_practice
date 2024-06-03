@@ -54,9 +54,9 @@ object list {
     }
       println(s"($i) ($j) = ${names(i)(j)}")*/
 
-    var a = Array(1,2,3)
+    var a = Array(1,2,7,8)
 
-    var b = a ++ Array(4,5,6)
+    var b = a ++ Array(4,5,9,10)
     for (i <- b) {
       println(i)
     }
